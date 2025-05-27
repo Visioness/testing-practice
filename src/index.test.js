@@ -1,3 +1,9 @@
+const capitalize = require('./index.js');
+const reverse = require('./index.js');
+const calculator = require('./index.js');
+const caesarCipher = require('./index.js');
+const analyzeArray = require('./index.js');
+
 /**
  * Capitalizing String
  */
