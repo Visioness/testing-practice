@@ -1,4 +1,12 @@
 {
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Testing practice",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest ./src/**/*.test.js",
+    "start": "node ./src/index.js"
+  },
   "devDependencies": {
     "jest": "^29.7.0"
   }
